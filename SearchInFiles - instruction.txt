@@ -12,7 +12,7 @@ How to fill in the parameters:
 1. Path: enter a path from where you start searching. Have in mind that if you will enter c:\, script
 will search in all subdirectories - it may take a while.
 
-2. TextToFind: straitforward, just enter some text you expect to find inside the files.
+2. TextToFind: straightforward, just enter some text you expect to find inside the files.
 
 3. FileType: enter extension of the files you are seeking. E.g pdf or xls (doesn't matter if you will
 enter xls or xlsx, same for doc and docx and ppt pptx - script will search in excel word or powerpoint files).
